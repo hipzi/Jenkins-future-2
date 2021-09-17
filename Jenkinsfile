@@ -1,4 +1,5 @@
-@Library('library-test@master') _
-deliveryPipeline(
-  text: "Hello World"
+@Library('library-test') _
+deliveryPipeline2(
+  text: "Hello World 2"
+  agent: zahra
 )
